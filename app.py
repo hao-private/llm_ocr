@@ -5,7 +5,6 @@ from azure.storage.blob import BlobServiceClient
 import requests
 import json
 import pandas as pd
-import re
 import uuid
 # import cv2
 
